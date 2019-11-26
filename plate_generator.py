@@ -10,7 +10,7 @@ from PIL import Image, ImageFont, ImageDraw
 
 path = os.path.dirname(os.path.realpath(__file__)) + "/"
 
-NUMBER_OF_PLATES = 500
+NUMBER_OF_PLATES = 1000
 
 for i in range(0, NUMBER_OF_PLATES):
 
